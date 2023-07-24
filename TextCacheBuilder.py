@@ -34,7 +34,7 @@ def build_cache(directory_paths, cache_file):
 # THE DIRECTORIES TO PREVENT PYTHON FROM BEING CONFUSED WITH
 # THE "\"
 directory_paths = [
-    r"C:\Users\moham\OneDrive\Desktop\test\content"
+    r""
 ]
 cache_file_path = "TEXT_Cache.pkl"
 
